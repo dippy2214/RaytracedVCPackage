@@ -1,0 +1,15 @@
+{
+    "name": "com.joshstuff.raytracedvcpackage",
+    "version": "1.0.0",
+    "displayName": "Raytraced Voice Chat",
+    "description": "package for raytracing voice chat system - made by josh",
+    "unity": "2023.2",
+    "keywords": [
+        "voice chat",
+        "ray tracing",
+        "vc"
+    ],
+    "author": {
+        "name": "Josh Lowe"
+    }
+}
